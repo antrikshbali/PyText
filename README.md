@@ -15,4 +15,4 @@ Created a simple program
 Takes the user name's first name, middle name and last names and formats them with capital letters and a middle initial
 
 ##PoemBinary.py
-Simple program that turns any long paragraph, pose or poem into binary code.
+Simple program that turns any long paragraph, prose or poem into binary code.
